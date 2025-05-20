@@ -1,0 +1,6 @@
+[submodule "ryft-android"]
+	path = ryft-android
+	url = https://github.com/RyftPay/ryft-android
+[submodule "ryft-ios"]
+	path = ryft-ios
+	url = https://github.com/RyftPay/ryft-ios
